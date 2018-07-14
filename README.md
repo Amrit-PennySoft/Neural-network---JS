@@ -24,3 +24,5 @@ Finally Training Data - like i previously mentioned we're storing all of our twe
 --console.log(execute("  "));-- This is where you pass in a tweet from whatever author you want. - It has to be console.log as i havent gone about making a UI for it yet- which is something im going to work on. 
 
 So just open up index.html and check the console.
+
+![neural](https://github.com/Amrit-PennySoft/Neural-network---JS/blob/master/neural.png)
