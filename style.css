@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+*{
+  margin: 0;
+  padding: 0;
+  background: darkorange;
+  font-family: 'Righteous', cursive;
+}
+
+img {
+  height: 200px;
+  width: 300px;
+  margin-top: 150px;
+  margin-left: 250px;
+
+}
+
+
+h1{
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
